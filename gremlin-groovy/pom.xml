@@ -62,7 +62,7 @@
         <dependency>
             <groupId>org.codehaus.groovy</groupId>
             <artifactId>groovy</artifactId>
-            <version>1.8.9</version>
+            <version>2.4.21</version>
         </dependency>
         <!-- included to complete the groovy dependencies so that AntBuilder can be used gremlin repl.  not
              clear why the groovy depenendency is not including it ... perhaps it is a provided scope -->
